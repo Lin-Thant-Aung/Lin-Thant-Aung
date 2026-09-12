@@ -23,6 +23,10 @@
 
 ### 🎓 Academic & Linguistic Milestones
 
+<p align="center">
+  <b>High School Graduate (Grade 12, Myanmar) & International Credentials</b>
+</p>
+
 <table align="center" width="100%">
   <thead>
     <tr>
@@ -33,24 +37,20 @@
   <tbody>
     <tr>
       <td align="left">
-        <b>N2:</b> 103 / 180<br>
-        <code>████████████░░░░░░░░</code> 57%<br><br>
-        <b>N3:</b> 135 / 180<br>
-        <code>████████████████░░░░</code> 75%<br><br>
-        <b>N4:</b> 150 / 180<br>
-        <code>██████████████████░░</code> 83%<br><br>
-        <b>N5:</b> 159 / 180<br>
-        <code>███████████████████░</code> 88%
+        <ul>
+          <li><b>N2:</b> 103 / 180</li>
+          <li><b>N3:</b> 135 / 180</li>
+          <li><b>N4:</b> 150 / 180</li>
+          <li><b>N5:</b> 159 / 180</li>
+        </ul>
       </td>
       <td align="left">
-        <b>Math:</b> 176<br>
-        <code>████████████████████</code><br><br>
-        <b>Science:</b> 158<br>
-        <code>████████████████░░░░</code><br><br>
-        <b>Language Arts:</b> 158<br>
-        <code>████████████████░░░░</code><br><br>
-        <b>Social Studies:</b> 149<br>
-        <code>███████████████░░░░░</code>
+        <ul>
+          <li><b>Math:</b> 176</li>
+          <li><b>Science:</b> 158</li>
+          <li><b>Language Arts:</b> 158</li>
+          <li><b>Social Studies:</b> 149</li>
+        </ul>
       </td>
     </tr>
   </tbody>
