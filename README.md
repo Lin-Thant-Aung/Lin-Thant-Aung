@@ -21,42 +21,22 @@
 
 ---
 
-### 🎓 Academic & Linguistic Milestones
-
 <div align="center">
 
-### 🌟 High School Graduate — Grade 12 (Myanmar)
+### 🎓 Education & Credentials
 
-</div>
+**High School Graduate — Grade 12 (Myanmar)**
 
 <br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="45%" align="left" style="padding: 20px; vertical-align: top;">
-        <h2 align="center">🇯🇵 JLPT Progression</h2>
-        <hr>
-        <p style="font-size: 16px; line-height: 1.8;">
-          &nbsp;&nbsp;•&nbsp; <b>JLPT N2:</b> 103 / 180<br>
-          &nbsp;&nbsp;•&nbsp; <b>JLPT N3:</b> 135 / 180<br>
-          &nbsp;&nbsp;•&nbsp; <b>JLPT N4:</b> 150 / 180<br>
-          &nbsp;&nbsp;•&nbsp; <b>JLPT N5:</b> 159 / 180
-        </p>
-      </td>
-      <td width="10%"></td>
-      <td width="45%" align="left" style="padding: 20px; vertical-align: top;">
-        <h2 align="center">📜 GED Test Scores</h2>
-        <hr>
-        <p style="font-size: 16px; line-height: 1.8;">
-          &nbsp;&nbsp;•&nbsp; <b>Math:</b> 176<br>
-          &nbsp;&nbsp;•&nbsp; <b>Science:</b> 158<br>
-          &nbsp;&nbsp;•&nbsp; <b>Language Arts:</b> 158<br>
-          &nbsp;&nbsp;•&nbsp; <b>Social Studies:</b> 149
-        </p>
-      </td>
-    </tr>
-  </table>
+### 🇯🇵 JLPT Progression
+> **JLPT N2:** 103 / 180 &nbsp;•&nbsp; **JLPT N3:** 135 / 180 &nbsp;•&nbsp; **JLPT N4:** 150 / 180 &nbsp;•&nbsp; **JLPT N5:** 159 / 180
+
+<br>
+
+### 📜 GED Test Scores
+> **Math:** 176 &nbsp;•&nbsp; **Science:** 158 &nbsp;•&nbsp; **Language Arts:** 158 &nbsp;•&nbsp; **Social Studies:** 149
+
 </div>
 
 <br>
