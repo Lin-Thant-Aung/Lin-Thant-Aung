@@ -16,7 +16,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,html,css,js,mysql,laravel,bootstrap,eclipse,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,php,html,css,js,mysql,laravel,bootstrap,eclipse,git,github,vscode&theme=dark" width="85%"/>
 </p>
 
 ---
@@ -27,30 +27,36 @@
   <b>High School Graduate (Grade 12, Myanmar) & International Credentials</b>
 </p>
 
+<br>
+
 <table align="center" width="100%">
   <thead>
     <tr>
-      <th align="center" width="50%">🇯🇵 JLPT Progression</th>
-      <th align="center" width="50%">📜 GED Test Scores</th>
+      <th align="center" width="50%"><h2>🇯🇵 JLPT Progression</h2></th>
+      <th align="center" width="50%"><h2>📜 GED Test Scores</h2></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="left">
-        <ul>
-          <li><b>N2:</b> 103 / 180</li>
-          <li><b>N3:</b> 135 / 180</li>
-          <li><b>N4:</b> 150 / 180</li>
-          <li><b>N5:</b> 159 / 180</li>
-        </ul>
+      <td align="left" valign="top" style="padding: 20px;">
+        <h3>
+          <ul>
+            <li><b>JLPT N2:</b> 103 / 180</li>
+            <li><b>JLPT N3:</b> 135 / 180</li>
+            <li><b>JLPT N4:</b> 150 / 180</li>
+            <li><b>JLPT N5:</b> 159 / 180</li>
+          </ul>
+        </h3>
       </td>
-      <td align="left">
-        <ul>
-          <li><b>Math:</b> 176</li>
-          <li><b>Science:</b> 158</li>
-          <li><b>Language Arts:</b> 158</li>
-          <li><b>Social Studies:</b> 149</li>
-        </ul>
+      <td align="left" valign="top" style="padding: 20px;">
+        <h3>
+          <ul>
+            <li><b>Math:</b> 176</li>
+            <li><b>Science:</b> 158</li>
+            <li><b>Language Arts:</b> 158</li>
+            <li><b>Social Studies:</b> 149</li>
+          </ul>
+        </h3>
       </td>
     </tr>
   </tbody>
