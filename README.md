@@ -25,17 +25,29 @@
 
 ### 🎓 Education & Credentials
 
-**High School Graduate — Grade 12 (Myanmar)**
+<p><b>High School Graduate — Grade 12 (Myanmar)</b></p>
 
 <br>
 
 ### 🇯🇵 JLPT Progression
-> **JLPT N2:** 103 / 180 &nbsp;•&nbsp; **JLPT N3:** 135 / 180 &nbsp;•&nbsp; **JLPT N4:** 150 / 180 &nbsp;•&nbsp; **JLPT N5:** 159 / 180
+
+<p style="font-size: 15px;">
+  <span style="color: #38bdf8; font-weight: bold;">JLPT N2:</span> <span style="color: #4ade80; font-weight: bold;">103 / 180</span> &nbsp;•&nbsp; 
+  <span style="color: #38bdf8; font-weight: bold;">JLPT N3:</span> <span style="color: #4ade80; font-weight: bold;">135 / 180</span> &nbsp;•&nbsp; 
+  <span style="color: #38bdf8; font-weight: bold;">JLPT N4:</span> <span style="color: #4ade80; font-weight: bold;">150 / 180</span> &nbsp;•&nbsp; 
+  <span style="color: #38bdf8; font-weight: bold;">JLPT N5:</span> <span style="color: #4ade80; font-weight: bold;">159 / 180</span>
+</p>
 
 <br>
 
 ### 📜 GED Test Scores
-> **Math:** 176 &nbsp;•&nbsp; **Science:** 158 &nbsp;•&nbsp; **Language Arts:** 158 &nbsp;•&nbsp; **Social Studies:** 149
+
+<p style="font-size: 15px;">
+  <span style="color: #f472b6; font-weight: bold;">Math:</span> <span style="color: #facc15; font-weight: bold;">176</span> &nbsp;•&nbsp; 
+  <span style="color: #f472b6; font-weight: bold;">Science:</span> <span style="color: #facc15; font-weight: bold;">158</span> &nbsp;•&nbsp; 
+  <span style="color: #f472b6; font-weight: bold;">Language Arts:</span> <span style="color: #facc15; font-weight: bold;">158</span> &nbsp;•&nbsp; 
+  <span style="color: #f472b6; font-weight: bold;">Social Studies:</span> <span style="color: #facc15; font-weight: bold;">149</span>
+</p>
 
 </div>
 
