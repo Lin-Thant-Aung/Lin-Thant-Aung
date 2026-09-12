@@ -13,16 +13,6 @@
 
 ---
 
-### 💻 About Me
-
-* 🚀 Passionate about developing robust web applications and clean backend architectures.
-* 🛠️ Experienced in building full-stack platforms using **Java**, **PHP**, **Laravel**, and **MySQL**.
-* 🇯🇵 Dedicated language learner — steadily climbed from **JLPT N5 all the way to N2**.
-* 📐 Strong logical foundation with high-tier analytical marks.
-* 📂 Featured project: [Channel Deck](https://github.com/Lin-Thant-Aung/channel-deck) — A custom modern YouTube creator directory.
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
@@ -34,11 +24,15 @@
 ### 🎓 Academic & Linguistic Milestones
 
 <table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🇯🇵 JLPT Progression</h3>
-      <hr>
-      <p align="left">
+  <thead>
+    <tr>
+      <th align="center" width="50%">🇯🇵 JLPT Progression</th>
+      <th align="center" width="50%">📜 GED Test Scores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">
         <b>N2:</b> 103 / 180<br>
         <code>████████████░░░░░░░░</code> 57%<br><br>
         <b>N3:</b> 135 / 180<br>
@@ -47,12 +41,8 @@
         <code>██████████████████░░</code> 83%<br><br>
         <b>N5:</b> 159 / 180<br>
         <code>███████████████████░</code> 88%
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>📜 GED Test Scores</h3>
-      <hr>
-      <p align="left">
+      </td>
+      <td align="left">
         <b>Math:</b> 176<br>
         <code>████████████████████</code><br><br>
         <b>Science:</b> 158<br>
@@ -61,9 +51,9 @@
         <code>████████████████░░░░</code><br><br>
         <b>Social Studies:</b> 149<br>
         <code>███████████████░░░░░</code>
-      </p>
-    </td>
-  </tr>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <br>
