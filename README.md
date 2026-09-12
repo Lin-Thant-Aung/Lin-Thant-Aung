@@ -23,44 +23,41 @@
 
 ### 🎓 Academic & Linguistic Milestones
 
-<p align="center">
-  <b>High School Graduate (Grade 12, Myanmar) & International Credentials</b>
-</p>
+<div align="center">
+
+### 🌟 High School Graduate — Grade 12 (Myanmar)
+
+</div>
 
 <br>
 
-<table align="center" width="100%">
-  <thead>
+<div align="center">
+  <table>
     <tr>
-      <th align="center" width="50%"><h2>🇯🇵 JLPT Progression</h2></th>
-      <th align="center" width="50%"><h2>📜 GED Test Scores</h2></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left" valign="top" style="padding: 20px;">
-        <h3>
-          <ul>
-            <li><b>JLPT N2:</b> 103 / 180</li>
-            <li><b>JLPT N3:</b> 135 / 180</li>
-            <li><b>JLPT N4:</b> 150 / 180</li>
-            <li><b>JLPT N5:</b> 159 / 180</li>
-          </ul>
-        </h3>
+      <td width="45%" align="left" style="padding: 20px; vertical-align: top;">
+        <h2 align="center">🇯🇵 JLPT Progression</h2>
+        <hr>
+        <p style="font-size: 16px; line-height: 1.8;">
+          &nbsp;&nbsp;•&nbsp; <b>JLPT N2:</b> 103 / 180<br>
+          &nbsp;&nbsp;•&nbsp; <b>JLPT N3:</b> 135 / 180<br>
+          &nbsp;&nbsp;•&nbsp; <b>JLPT N4:</b> 150 / 180<br>
+          &nbsp;&nbsp;•&nbsp; <b>JLPT N5:</b> 159 / 180
+        </p>
       </td>
-      <td align="left" valign="top" style="padding: 20px;">
-        <h3>
-          <ul>
-            <li><b>Math:</b> 176</li>
-            <li><b>Science:</b> 158</li>
-            <li><b>Language Arts:</b> 158</li>
-            <li><b>Social Studies:</b> 149</li>
-          </ul>
-        </h3>
+      <td width="10%"></td>
+      <td width="45%" align="left" style="padding: 20px; vertical-align: top;">
+        <h2 align="center">📜 GED Test Scores</h2>
+        <hr>
+        <p style="font-size: 16px; line-height: 1.8;">
+          &nbsp;&nbsp;•&nbsp; <b>Math:</b> 176<br>
+          &nbsp;&nbsp;•&nbsp; <b>Science:</b> 158<br>
+          &nbsp;&nbsp;•&nbsp; <b>Language Arts:</b> 158<br>
+          &nbsp;&nbsp;•&nbsp; <b>Social Studies:</b> 149
+        </p>
       </td>
     </tr>
-  </tbody>
-</table>
+  </table>
+</div>
 
 <br>
 
