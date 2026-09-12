@@ -1,62 +1,75 @@
 <div align="center">
 
-# Hi there, I'm Lin Thant Aung 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0df&height=180&section=header&text=Lin%20Thant%20Aung&fontSize=50&fontColor=fff&animation=fadeIn&fontYAxis=35" width="100%" />
 
-**Full-Stack & Software Enthusiast • Java & Laravel • Bilingual (EN / JA)**
+### **Full-Stack Developer • Software Enthusiast • Bilingual (EN / JA)**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Coding%20Something%20New-00f0ff?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core-Java%20%7C%20PHP%20%7C%20Laravel-777BB4?style=flat-square&logo=laravel&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 💻 About Me
 
-* 💻 Passionate about building web applications and desktop software.
-* 🛠️ Core development with **Java**, **PHP**, **Laravel**, and **MySQL**.
-* 🇯🇵 Japanese language proficient — climbed steadily from **JLPT N5 all the way to N2**.
-* 📐 Strong mathematical & logical problem-solving background (**GED Math: 176 / College Ready**).
-* 📂 Check out my latest project: [Channel Deck](https://github.com/Lin-Thant-Aung/channel-deck) — a clean creator directory.
-
----
-
-### 🛠️ Tech Stack
-
-#### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### **Frameworks & UI**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### **Tools & IDEs**
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+* 🚀 Passionate about developing robust web applications and clean backend architectures.
+* 🛠️ Experienced in building full-stack platforms using **Java**, **PHP**, **Laravel**, and **MySQL**.
+* 🇯🇵 Dedicated language learner — steadily climbed from **JLPT N5 all the way to N2**.
+* 📐 Strong logical foundation with high-tier analytical marks (**GED Math: 176**).
+* 📂 Featured project: [Channel Deck](https://github.com/Lin-Thant-Aung/channel-deck) — A custom modern YouTube creator directory.
 
 ---
 
-### 🎓 Certifications & Academics
+### 🛠️ Tech Stack & Tools
 
-#### 🇯🇵 Japanese Language Proficiency Test (JLPT Progression)
-
-> **🎯 Peak Achievement: JLPT N2 Certified (103 / 180)**
-
-* **JLPT N2:** `103 / 180` 🏅 *(Certified)*
-* **JLPT N3:** `135 / 180` *(Passed)*
-* **JLPT N4:** `150 / 180` *(Passed)*
-* **JLPT N5:** `159 / 180` *(Passed)*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,php,html,css,js,mysql,laravel,bootstrap,eclipse,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
-#### 📜 General Educational Development (GED)
+### 🎓 Academic & Linguistic Milestones
 
-> **⭐ Top Score: Mathematical Reasoning — 176 (College Ready / Honors)**
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🇯🇵 JLPT Progression</h3>
+      <p><b>Peak: N2 Certified (103/180)</b></p>
+      <hr>
+      <p align="left">
+        <b>N2:</b> 103 / 180 (Certified 🏅)<br>
+        <code>████████████░░░░░░░░</code> 57%<br><br>
+        <b>N3:</b> 135 / 180 (Passed)<br>
+        <code>████████████████░░░░</code> 75%<br><br>
+        <b>N4:</b> 150 / 180 (Passed)<br>
+        <code>██████████████████░░</code> 83%<br><br>
+        <b>N5:</b> 159 / 180 (Passed)<br>
+        <code>███████████████████░</code> 88%
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📜 GED Test Scores</h3>
+      <p><b>Peak: Math 176 (College Ready)</b></p>
+      <hr>
+      <p align="left">
+        <b>Math:</b> 176 (College Ready 🌟)<br>
+        <code>████████████████████</code> Honors<br><br>
+        <b>Science:</b> 158 (Passed)<br>
+        <code>████████████████░░░░</code> Solid<br><br>
+        <b>Language Arts:</b> 158 (Passed)<br>
+        <code>████████████████░░░░</code> Solid<br><br>
+        <b>Social Studies:</b> 149 (Passed)<br>
+        <code>███████████████░░░░░</code> Clear
+      </p>
+    </td>
+  </tr>
+</table>
 
-* 📐 **Mathematical Reasoning:** **`176`** *(College Ready)*
-* 🔬 **Science:** **`158`** *(Passed)*
-* 📖 **Language Arts:** **`158`** *(Passed)*
-* 🌍 **Social Studies:** **`149`** *(Passed)*
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0df&height=4&section=footer" width="100%" />
+</div>
