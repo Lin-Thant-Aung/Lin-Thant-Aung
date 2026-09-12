@@ -4,8 +4,6 @@
 
 **Full-Stack & Software Enthusiast • Java & Laravel • Bilingual (EN / JA)**
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=Lin-Thant-Aung&color=00f0ff&style=flat-square&label=Profile+Views)](https://github.com/Lin-Thant-Aung)
-
 </div>
 
 ---
@@ -14,7 +12,7 @@
 
 * 💻 Passionate about building web applications and desktop software.
 * 🛠️ Core development with **Java**, **PHP**, **Laravel**, and **MySQL**.
-* 🇯🇵 Japanese language proficient — climbed from **JLPT N5 all the way to N2**.
+* 🇯🇵 Japanese language proficient — climbed steadily from **JLPT N5 all the way to N2**.
 * 📐 Strong mathematical & logical problem-solving background (**GED Math: 176 / College Ready**).
 * 📂 Check out my latest project: [Channel Deck](https://github.com/Lin-Thant-Aung/channel-deck) — a clean creator directory.
 
@@ -43,25 +41,22 @@
 
 ### 🎓 Certifications & Academics
 
-#### 🇯🇵 Japanese Language Proficiency Test (JLPT)
-| Level | Status | Score |
-| :--- | :--- | :--- |
-| **JLPT N2** | **Certified** 🏅 | **103 / 180** |
-| **JLPT N3** | Passed | 135 / 180 |
-| **JLPT N4** | Passed | 150 / 180 |
-| **JLPT N5** | Passed | 159 / 180 |
+#### 🇯🇵 Japanese Language Proficiency Test (JLPT Progression)
 
-#### 📜 General Educational Development (GED)
-* 📐 **Mathematical Reasoning:** **176** *(College Ready)*
-* 🔬 **Science:** **158** *(Passed)*
-* 📖 **Language Arts:** **158** *(Passed)*
-* 🌍 **Social Studies:** **149** *(Passed)*
+> **🎯 Peak Achievement: JLPT N2 Certified (103 / 180)**
+
+* **JLPT N2:** `103 / 180` 🏅 *(Certified)*
+* **JLPT N3:** `135 / 180` *(Passed)*
+* **JLPT N4:** `150 / 180` *(Passed)*
+* **JLPT N5:** `159 / 180` *(Passed)*
 
 ---
 
-### 📊 GitHub Activity
+#### 📜 General Educational Development (GED)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lin-Thant-Aung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lin Thant Aung's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-Thant-Aung&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+> **⭐ Top Score: Mathematical Reasoning — 176 (College Ready / Honors)**
+
+* 📐 **Mathematical Reasoning:** **`176`** *(College Ready)*
+* 🔬 **Science:** **`158`** *(Passed)*
+* 📖 **Language Arts:** **`158`** *(Passed)*
+* 🌍 **Social Studies:** **`149`** *(Passed)*
