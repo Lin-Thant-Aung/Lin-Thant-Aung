@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### <img src="https://img.shields.io/badge/-Tools-111?logo=tools&logoColor=0df&style=flat-square" alt="Tech Stack" height="24"> **Tech Stack & Tools**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,php,html,css,js,mysql,laravel,bootstrap,eclipse,git,github,vscode&theme=dark" width="85%"/>
@@ -23,13 +23,13 @@
 
 <div align="center">
 
-### 🎓 Education & Credentials
+### <img src="https://img.shields.io/badge/-Education-111?logo=mortarboard&logoColor=0df&style=flat-square" alt="Education" height="24"> **Education & Credentials**
 
 <p><b>High School Graduate — Grade 12 (Myanmar)</b></p>
 
 <br>
 
-### 🇯🇵 JLPT Progression
+### <img src="https://img.shields.io/badge/-Language-111?logo=translate&logoColor=38bdf8&style=flat-square" alt="JLPT" height="24"> **JLPT Progression**
 
 <p style="font-size: 15px;">
   <span style="color: #38bdf8; font-weight: bold;">JLPT N2:</span> <span style="color: #4ade80; font-weight: bold;">103 / 180</span> &nbsp;•&nbsp; 
@@ -40,7 +40,7 @@
 
 <br>
 
-### 📜 GED Test Scores
+### <img src="https://img.shields.io/badge/-Scores-111?logo=journal-text&logoColor=f472b6&style=flat-square" alt="GED" height="24"> **GED Test Scores**
 
 <p style="font-size: 15px;">
   <span style="color: #f472b6; font-weight: bold;">Math:</span> <span style="color: #facc15; font-weight: bold;">176</span> &nbsp;•&nbsp; 
