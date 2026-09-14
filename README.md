@@ -5,8 +5,8 @@
 ### **Full-Stack Developer • Software Enthusiast • Bilingual (EN / JA)**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Coding%20Something%20New-00f0ff?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Core-Java%20%7C%20PHP%20%7C%20Laravel-777BB4?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Coding%20Something%20New-00f0ff?style=flat-square&logo=code-slash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core-Java%20%7C%20PHP%20%7C%20Laravel-777BB4?style=flat-square&logo=window-stack&logoColor=white" />
 </p>
 
 </div>
